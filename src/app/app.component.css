@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#contenedor{
+    width: 1200px;
+    height: 1000px;
+    background: rosybrown;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+.Encabezado{
+    height: 15%;
+    background: #003cff;
+    border-radius: 1em;
+    margin: 1em;
+    text-align: center;
+}
+.Titulo{
+    height: 10%;
+    background: #FF0000;
+    border-radius: 1em;
+    margin: 1em;
+    text-align: center;
+}
+#contenido{
+    height: 53%;
+    background: rgb(0, 255, 42);
+}
+.Pie{
+    height: 15%;
+    background: rgb(68, 0, 255);
+    border-radius: 1em;
+    margin: 1em;
+    text-align: center;
+}
+.contenidogabriel{
+    height: 100%;
+    width: 100%;
+    background: rgb(0, 255, 21);
+    border-radius: 1em;
+    
+   
+    text-align: center;
+}
+.articulo{
+    width: 90%;
+    height: 13%;
+    background: rgb(184, 139, 16);
+    margin: 5em;
+    border-radius:5em;
+}
